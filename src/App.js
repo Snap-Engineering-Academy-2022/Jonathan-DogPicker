@@ -86,11 +86,8 @@ function App() {
     return DogIndex;
   }
 
-
-
-
   return (
-    <div className="App">
+    <div className="App" style = {{backgroundColor: "#BBF1F1"}}>
       <CssBaseline />
       <AppBar
         position="static"
