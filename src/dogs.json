@@ -1,0 +1,256 @@
+[
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "50 - 60",
+                  "metric": "23 - 27"
+              },
+              "height": {
+                  "imperial": "25 - 27",
+                  "metric": "64 - 69"
+              },
+              "id": 2,
+              "name": "Afghan Hound",
+              "country_code": "AG",
+              "bred_for": "Coursing and hunting",
+              "breed_group": "Hound",
+              "life_span": "10 - 13 years",
+              "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+              "origin": "Afghanistan, Iran, Pakistan",
+              "reference_image_id": "hMyT4CDXR"
+          }
+      ],
+      "id": "rkVB1x9E7",
+      "url": "https://cdn2.thedogapi.com/images/rkVB1x9E7_1280.jpg",
+      "width": 333,
+      "height": 500
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "10 - 18",
+                  "metric": "5 - 8"
+              },
+              "height": {
+                  "imperial": "9.5 - 11.5",
+                  "metric": "24 - 29"
+              },
+              "id": 42,
+              "name": "Bichon Frise",
+              "bred_for": "Companion",
+              "breed_group": "Non-Sporting",
+              "life_span": "15 years",
+              "temperament": "Feisty, Affectionate, Cheerful, Playful, Gentle, Sensitive",
+              "reference_image_id": "HkuYlxqEQ"
+          }
+      ],
+      "id": "HkuYlxqEQ",
+      "url": "https://cdn2.thedogapi.com/images/HkuYlxqEQ_1280.jpg",
+      "width": 480,
+      "height": 360
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "30 - 150",
+                  "metric": "14 - 68"
+              },
+              "height": {
+                  "imperial": "14 - 17",
+                  "metric": "36 - 43"
+              },
+              "id": 11,
+              "name": "American Bully",
+              "country_code": "US",
+              "bred_for": "Family companion dog",
+              "breed_group": "",
+              "life_span": "8 – 15 years",
+              "temperament": "Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous",
+              "reference_image_id": "sqQJDtbpY"
+          }
+      ],
+      "id": "aENh7kMis",
+      "url": "https://cdn2.thedogapi.com/images/aENh7kMis.jpg",
+      "width": 960,
+      "height": 672
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "50 - 60",
+                  "metric": "23 - 27"
+              },
+              "height": {
+                  "imperial": "25 - 27",
+                  "metric": "64 - 69"
+              },
+              "id": 2,
+              "name": "Afghan Hound",
+              "country_code": "AG",
+              "bred_for": "Coursing and hunting",
+              "breed_group": "Hound",
+              "life_span": "10 - 13 years",
+              "temperament": "Aloof, Clownish, Dignified, Independent, Happy",
+              "origin": "Afghanistan, Iran, Pakistan",
+              "reference_image_id": "hMyT4CDXR"
+          }
+      ],
+      "id": "cLWrIOUqE",
+      "url": "https://cdn2.thedogapi.com/images/cLWrIOUqE.jpg",
+      "width": 1920,
+      "height": 1200
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "38 - 50",
+                  "metric": "17 - 23"
+              },
+              "height": {
+                  "imperial": "23 - 26",
+                  "metric": "58 - 66"
+              },
+              "id": 8,
+              "name": "Alaskan Husky",
+              "bred_for": "Sled pulling",
+              "breed_group": "Mixed",
+              "life_span": "10 - 13 years",
+              "temperament": "Friendly, Energetic, Loyal, Gentle, Confident",
+              "reference_image_id": "-HgpNnGXl"
+          }
+      ],
+      "id": "NxTFaEvsq",
+      "url": "https://cdn2.thedogapi.com/images/NxTFaEvsq.jpg",
+      "width": 1200,
+      "height": 699
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "45 - 55",
+                  "metric": "20 - 25"
+              },
+              "height": {
+                  "imperial": "20 - 22",
+                  "metric": "51 - 56"
+              },
+              "id": 32,
+              "name": "Bearded Collie",
+              "bred_for": "Sheep herding",
+              "breed_group": "Herding",
+              "life_span": "12 - 14 years",
+              "temperament": "Self-confidence, Hardy, Lively, Alert, Intelligent, Active",
+              "reference_image_id": "A09F4c1qP"
+          }
+      ],
+      "id": "_q5yhP_X_",
+      "url": "https://cdn2.thedogapi.com/images/_q5yhP_X_.jpg",
+      "width": 1080,
+      "height": 1080
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "130 - 180",
+                  "metric": "59 - 82"
+              },
+              "height": {
+                  "imperial": "25.5 - 27.5",
+                  "metric": "65 - 70"
+              },
+              "id": 212,
+              "name": "Saint Bernard",
+              "bred_for": "Draft, search, rescue",
+              "breed_group": "Working",
+              "life_span": "7 - 10 years",
+              "temperament": "Friendly, Lively, Gentle, Watchful, Calm",
+              "reference_image_id": "_Qf9nfRzL"
+          }
+      ],
+      "id": "V8hgHJeCp",
+      "url": "https://cdn2.thedogapi.com/images/V8hgHJeCp.jpg",
+      "width": 1080,
+      "height": 810
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "35 - 65",
+                  "metric": "16 - 29"
+              },
+              "height": {
+                  "imperial": "23 - 28",
+                  "metric": "58 - 71"
+              },
+              "id": 213,
+              "name": "Saluki",
+              "bred_for": "Coursing gazelle and hare",
+              "breed_group": "Hound",
+              "life_span": "12 - 14 years",
+              "temperament": "Aloof, Reserved, Intelligent, Quiet",
+              "reference_image_id": "fjFIuehNo"
+          }
+      ],
+      "id": "4aJ37urBz",
+      "url": "https://cdn2.thedogapi.com/images/4aJ37urBz.jpg",
+      "width": 1280,
+      "height": 1707
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "17 - 23",
+                  "metric": "8 - 10"
+              },
+              "height": {
+                  "imperial": "13.5 - 16.5",
+                  "metric": "34 - 42"
+              },
+              "id": 222,
+              "name": "Shiba Inu",
+              "bred_for": "Hunting in the mountains of Japan, Alert Watchdog",
+              "breed_group": "Non-Sporting",
+              "life_span": "12 - 16 years",
+              "temperament": "Charming, Fearless, Keen, Alert, Confident, Faithful",
+              "reference_image_id": "Zn3IjPX3f"
+          }
+      ],
+      "id": "zXi6Z5ugC",
+      "url": "https://cdn2.thedogapi.com/images/zXi6Z5ugC.jpg",
+      "width": 1080,
+      "height": 1080
+  },
+  {
+      "breeds": [
+          {
+              "weight": {
+                  "imperial": "35 - 55",
+                  "metric": "16 - 25"
+              },
+              "height": {
+                  "imperial": "20 - 24",
+                  "metric": "51 - 61"
+              },
+              "id": 243,
+              "name": "Thai Ridgeback",
+              "breed_group": "Hound",
+              "life_span": "10 - 12 years",
+              "temperament": "Protective, Loyal, Independent, Intelligent, Loving, Familial",
+              "reference_image_id": "zv89hR-O8"
+          }
+      ],
+      "id": "0mUBUQ68p",
+      "url": "https://cdn2.thedogapi.com/images/0mUBUQ68p.jpg",
+      "width": 1080,
+      "height": 1196
+  }
+]
