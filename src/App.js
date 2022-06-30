@@ -11,7 +11,6 @@ import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import './App.css';
-import characters from './protagonists.json'
 import CharacterCard from './CharacterCard.js';
 import TraitCard from './TraitCard.js';
 import React, { useState, useEffect } from 'react';
@@ -28,7 +27,7 @@ function App() {
       method: 'GET',
       redirect: 'follow'
     };
-    fetch("https://api.thedogapi.com/v1/images/search?size=med&mime_types=jpg&format=json&has_breeds=true&order=RANDOM&page=0&limit=30", requestOptions)
+    fetch("https://api.thedogapi.com/v1/images/search?size=med&mime_types=jpg&format=json&has_breeds=true&order=RANDOM&page=0&limit=50", requestOptions)
                 .then(response => response.json())
                 .then(result => {
                   console.log("2 inside fetch", Date.now());
